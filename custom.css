@@ -1,1 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Londrina+Solid);
+
+#boxes-box-site_info h1 {
+  font-family: 'Londrina Solid', cursive; 
+}
