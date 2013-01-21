@@ -2,4 +2,114 @@
 
 #boxes-box-site_info h1 {
   font-family: 'Londrina Solid', cursive; 
+  text-transform: uppercase;
+  font-size: 72px;
+  margin-top: -16px;
+	margin-left: -16px;
+}
+
+#boxes-box-site_info h2,
+#boxes-box-site_info p {
+	font-weight: bold;
+}
+#header-container h1 a:hover {
+	color: yellow;
+}
+
+h1#page-title {
+  font-family: 'Londrina Solid', cursive; 
+  text-transform: uppercase;
+  font-size: 72px;
+  margin-bottom: 0.2em;
+	margin-top: -0.25em;
+	font-weight: normal;
+}
+
+h2.huge {
+  font-family: 'Londrina Solid', cursive; 
+  text-transform: uppercase;
+  font-size: 48px;
+  margin-bottom: -0.5em;
+	margin-top: -0.25em;
+	font-weight: normal;
+}
+
+#page.page #content-column h2.block-title {
+  font-family: 'Londrina Solid', cursive; 
+  text-transform: uppercase;
+  font-size: 32px;
+  margin-bottom: 0;
+	margin-top: -0.25em;
+	font-weight: normal;
+}
+
+#content-column h2.huge {
+	margin-bottom: 0px;
+}
+
+#block-os-primary-menu {
+	margin-right: -10px;
+}
+
+#block-os-primary-menu li {
+	display: block;
+  font-family: 'Londrina Solid', cursive; 
+  text-transform: uppercase;
+  font-size: 48px;
+  margin-bottom: -0.5em;
+	margin-top: -0.25em;	
+}
+#block-os-secondary-menu {
+	margin-right: -20px;
+}
+
+#block-os-secondary-menu .block-inner {
+	margin-right:-2px;
+}
+
+#block-os-secondary-menu li {
+  font-family: 'Londrina Solid', cursive; 
+  text-transform: uppercase;
+  font-size: 48px;
+  margin-bottom: -0.5em;
+	margin-top: -0.25em;
+	font-weight: normal;
+}
+
+#header-container #block-boxes-os-addthis {
+	margin-top:5px;
+}
+
+#header-container .panel-display.three-col.clearfix .region.region-header-second {
+	width: 600px
+}
+
+#header-container .panel-display.three-col.clearfix .region.region-header-second .region-inner {
+	padding-top: 0;
+}
+
+body {
+	background: url(../images/brownbrix.jpg) 0 repeat;
+}
+
+#content-column .content-inner .at-panel.gpanel.panel-display.content {
+  margin-top: -24px;
+}
+
+#content-column article p, #content-column article li {
+	font-size: 1.4em;
+}
+
+#content-column .block article ul {
+	list-style-type: disc;
+}
+
+.front .views_slideshow_slide img {
+	padding-top: 0;
+}
+
+.region-sidebar-second #boxes-box-os_addthis {
+	margin-right: -30px;
+	margin-bottom: -21px;
+	padding-top: 10px;
 }
